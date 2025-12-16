@@ -1,1 +1,1 @@
-# KeyPad-Exemple-ESP32
+# Projecte ESP32 per utilitzar un Keypad per introduir i validar una contrasenya
